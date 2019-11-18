@@ -1,0 +1,26 @@
+{
+  "name": "entity-service-lambda",
+  "version": "0.0.1",
+  "description": "function and related deployment for entity-service",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtviegas/entity-service-lambda.git"
+  },
+  "keywords": [
+    "lambda",
+    "nodejs"
+  ],
+  "author": "Joao Tiago Viegas <jtviegas.js@gmail.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/jtviegas/entity-service-lambda/issues"
+  },
+  "homepage": "https://github.com/jtviegas/entity-service-lambda#readme",
+  "dependencies": {
+    "@jtviegas/entity-service": "0.0.2"
+  }
+}
